@@ -1,0 +1,6 @@
+{
+  "name": "UK Survey Profile – Sample Register",
+  "description": "NETWHO digital intelligence platform featuring IP lookup, VPN detection, network diagnostics, 195-country Global Location Generator, Address & Location Generator, and structured profile utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
